@@ -1,6 +1,6 @@
 ### Vincent Rupp
 
-Data Science student at Augsburg University who spent the past year embedded in procurement operations at a medical-device manufacturer, building R-based forecasting and automation models alongside full-cycle purchase order management. Comfortable moving between spreadsheets, R and Python scripts, SQL, and supplier calls - drawn to work where analytics has to hold up against something real, not just a clean dataset.
+Data Science graduate from Augsburg University who spent the past year embedded in procurement operations at a medical-device manufacturer, building R-based forecasting and automation models alongside full-cycle purchase order management. Comfortable moving between spreadsheets, R and Python scripts, SQL, and supplier calls - drawn to work where analytics has to hold up against something real, not just a clean dataset.
 
 #### What I'm doing now
 
