@@ -25,6 +25,14 @@ SQL Final Project, Marine Rescue Center Database - relational database design an
 
 FF Draft Assistant - a FastAPI and WebSockets live fantasy football draft tool
 
+Predicting Hall of Fame Catchers - a regularized logistic regression model estimating a modern MLB catcher's Hall of Fame probability from Lahman database stats
+
+World Cup Group Stage Simulation - a 5,000-run Monte Carlo simulation producing advance probabilities and a rooting guide for every team
+
+A Probability Analysis of Sequencium - a probability theory paper testing strategies for a two-player number-chain game, with Saad Khandakar
+
+Spotify Playlist Analytics - an end-to-end pipeline turning a personal Spotify export into 30+ visualizations of listening habits over time
+
 #### Contact
 
 vjrupp49@gmail.com
